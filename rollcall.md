@@ -5,6 +5,8 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Yu Wang, Western New England University
+
 * Anthony Coralli, Western New England University
 
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
