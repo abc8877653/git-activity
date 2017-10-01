@@ -6,6 +6,7 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Yu Wang, Western New England University
+     * Email: yw343600@wne.edu
 
 * Anthony Coralli, Western New England University
 
